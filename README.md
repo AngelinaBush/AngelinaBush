@@ -10,5 +10,7 @@
 
 ## My Projects
 
-<img src="lingerie-gif.gif" width="250" />
+<a href="https://ecommerce-lingerie.netlify.app/" target="_blank">
+  <img src="lingerie-gif.gif" width="250" />
+</a>
  
