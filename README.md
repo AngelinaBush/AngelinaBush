@@ -1,6 +1,7 @@
-### Hi there 👋
 
-👋 Hey there! I'm Angelina Bushueva, a newbie front-end developer diving deep into React to create cool stuff on the web. I've got a good handle on HTML, CSS, and JavaScript, and now I'm all about building awesome user interfaces with React.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+👋;I'm+Angelina+Bushueva)](https://git.io/typing-svg)
+
+👋 I'm Angelina Bushueva, a newbie front-end developer diving deep into React to create cool stuff on the web. I've got a good handle on HTML, CSS, and JavaScript, and now I'm all about building awesome user interfaces with React.
 
 🚀 Right now, I'm focusing hard on React—it's like Lego for making websites! I'm also learning about Redux for managing data and Node.js for the back-end stuff.
 
