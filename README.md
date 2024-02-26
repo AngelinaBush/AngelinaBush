@@ -13,4 +13,8 @@
 <a href="https://ecommerce-lingerie.netlify.app/" target="_blank">
   <img src="lingerie-gif.gif" width="250" />
 </a>
+
+<a href="https://world-recipes.netlify.app/" target="_blank">
+  <img src="world-recipes.gif" width="250" />
+</a>
  
