@@ -8,5 +8,7 @@
 
 🌟 Drop me a line, and let's build some awesome stuff with React together!
 
+## My Projects
 
-
+<img src="lingerie-gif.gif" width="250" />
+ 
