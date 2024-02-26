@@ -12,20 +12,8 @@
 
 ✉️ You can contact me at **<a href="mailto:asbushuevaa@mail.ru">My Email</a>**
 
-## My Projects
-
-<a href="https://ecommerce-lingerie.netlify.app/" target="_blank">
-  <img src="lingerie.gif" width="250" />
-</a>
-
-<a href="https://world-recipes.netlify.app/" target="_blank">
-  <img src="world-recipes.gif" width="250" />
-</a>
 
 ## Tech Stack
-
-### Skills
-
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -41,6 +29,18 @@
   <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
+
+## My Projects
+
+<a href="https://ecommerce-lingerie.netlify.app/" target="_blank">
+  <img src="lingerie.gif" width="250" />
+</a>
+
+<a href="https://world-recipes.netlify.app/" target="_blank">
+  <img src="world-recipes.gif" width="250" />
+</a>
+
 
 
 
