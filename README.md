@@ -7,3 +7,7 @@
 💡 When I'm not coding, you can catch me checking out new design ideas and keeping up with what's hot in web development. I love working with others and learning new things, so let's team up and make some web magic!
 
 🌟 Drop me a line, and let's build some awesome stuff with React together!
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AngelinaBush)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://angelina-bush.glitch.me/)  
+
