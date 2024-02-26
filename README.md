@@ -15,6 +15,6 @@
 </a>
 
 <a href="https://world-recipes.netlify.app/" target="_blank">
-  <img src="" width="250" />
+  <img src="world-recipes.gif" width="250" />
 </a>
  
